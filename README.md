@@ -88,6 +88,7 @@
 | Tool | Focus | Description |
 | :--- | :--- | :--- |
 | [GitHub CLI (gh)](https://cli.github.com/) | GitHub Workflow | Pull requests, issues, gists, and GitHub Actions from your terminal. |
+| [Glim](https://github.com/NeoPanic/Glim) | macOS File Viewing | Open-source file viewer and basic text editor for Markdown, diagrams, Git diffs and structured data. |
 | [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) | Search | Line-oriented search tool that recursively searches directories for regex patterns. |
 | [HTTPie](https://httpie.io/) | API Testing | User-friendly HTTP client for the command line. |
 | [fzf](https://github.com/junegunn/fzf) | Command Line | General-purpose command-line fuzzy finder. |
