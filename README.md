@@ -87,6 +87,7 @@
 
 | Tool | Focus | Description |
 | :--- | :--- | :--- |
+| [BestJSON](https://bestjson.com/) | JSON Processing | Format, validate, preview repairs, and compare JSON locally in the browser without an account. |
 | [GitHub CLI (gh)](https://cli.github.com/) | GitHub Workflow | Pull requests, issues, gists, and GitHub Actions from your terminal. |
 | [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) | Search | Line-oriented search tool that recursively searches directories for regex patterns. |
 | [HTTPie](https://httpie.io/) | API Testing | User-friendly HTTP client for the command line. |
